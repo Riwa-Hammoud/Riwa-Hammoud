@@ -1,4 +1,4 @@
-# Hi there, I'm Riwa Hammoud!
+
 
 | ![Girl Coding](https://github.com/Riwa-Hammoud/Riwa-Hammoud/blob/main/giphy.gif) | *Crafting code with a touch of creativity,* <br><br>Turning ideas into reality through **Web Development** and **AI**.<br><br>I'm on a journey to learn, create, and innovate —<br><br>From a sleek website to a smart machine learning model,<br><br>I'm all about building solutions that leave a lasting impact. |
 |---|---|
