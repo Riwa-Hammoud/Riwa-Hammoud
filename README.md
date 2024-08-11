@@ -8,9 +8,10 @@
     <td style="border: none; padding-left: 20px;">
       <p style="font-size: 16px;">
         <em>Crafting code with a touch of creativity,</em> <br>
-        <strong>Passionate about turning ideas into reality</strong> through web development and AI.<br>
-        I'm on a journey to learn, create, and innovate.<br>
-        Whether it's a sleek website or a smart machine learning model, <br>
+        Passionate about turning ideas into reality through <strong>web development</strong> and <strong>AI</strong>.<br>
+        I'm on a journey to learn, create, and innovate—<br>
+        whether I'm immersed in lines of code or bringing new ideas to life.<br>
+        From a sleek website to a smart machine learning model,<br>
         I'm all about building solutions that leave a lasting impact.<br>
       </p>
     </td>
