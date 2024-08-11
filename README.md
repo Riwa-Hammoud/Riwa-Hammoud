@@ -21,15 +21,15 @@ I'm a passionate **Web Developer** and **AI/ML Enthusiast**, with a keen interes
 
 ## 🛠️ My Skills
 - **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks:** Django, React
+- **Frameworks:** Django, NodeJS
 - **Tools:** Power BI, Git, Figma
-- **Interests:** AI, Machine Learning, Data Analytics
+- **Interests:** AI, Machine Learning, Frontend Web Deveopment
 
 ## 📊 GitHub Stats
 ![Riwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riwa-Hammoud&show_icons=true&theme=radical)
 
 ## 🎯 My Goals
-- **Short-term:** Complete my ongoing projects and contribute to open-source.
+- **Short-term:** Continuously learn and enhance my skills until I secure a decent job in my field of interest.
 - **Long-term:** Deepen my expertise in AI/ML and lead impactful projects.
 
 ## 💡 Fun Fact
