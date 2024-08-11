@@ -1,4 +1,4 @@
-# Hi there, I'm Riwa Hammoud! 👋
+# Hi there, I'm Riwa Hammoud!
 
 ![Girl Coding](https://github.com/Riwa-Hammoud/Riwa-Hammoud/blob/main/giphy.gif)
 
