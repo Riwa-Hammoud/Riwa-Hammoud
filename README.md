@@ -1,12 +1,9 @@
 # Hi there, I'm Riwa Hammoud!
 
-![Girl Coding](https://github.com/Riwa-Hammoud/Riwa-Hammoud/blob/main/giphy.gif)
+| ![Girl Coding](https://github.com/Riwa-Hammoud/Riwa-Hammoud/blob/main/giphy.gif) | *Crafting code with a touch of creativity,* <br><br>Turning ideas into reality through **Web Development** and **AI**.<br><br>I'm on a journey to learn, create, and innovate —<br><br>From a sleek website to a smart machine learning model,<br><br>I'm all about building solutions that leave a lasting impact. |
+|---|---|
 
-_Crafting code with a touch of creativity,_  
-Passionate about turning ideas into reality through **web development** and **AI**.  
-I'm on a journey to learn, create, and innovate —  
-From a sleek website to a smart machine learning model,  
-I'm all about building solutions that leave a lasting impact.
+
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Riwa-Hammoud&color=blueviolet&style=flat-square)](https://github.com/Riwa-Hammoud)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
