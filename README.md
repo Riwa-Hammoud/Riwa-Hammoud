@@ -1,6 +1,6 @@
 # Hi there, I'm Riwa Hammoud! 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riwa-Hammoud&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riwa-Hammoud&layout=compact&theme=radical) <br>
 ![Profile Views](https://komarev.com/ghpvc/?username=Riwa-Hammoud&color=blueviolet&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
