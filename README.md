@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Riwa-Hammoud&color=blueviolet&style=flat-square)
 
 ## 🚀 About Me
-I'm a passionate **Web Developer** and **AI/ML Enthusiast** from Lebanon, with a keen interest in crafting innovative solutions and transforming creative ideas into reality.
+I'm a passionate **Web Developer** and **AI/ML Enthusiast**, with a keen interest in crafting innovative solutions and transforming creative ideas into reality.
 
 - 🔭 I’m currently working on **Data Analytics and Power BI Projects**
 - 🌱 I’m learning **Machine Learning**
