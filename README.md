@@ -1,20 +1,17 @@
 # Hi there, I'm Riwa Hammoud!
 
-<table>
-  <tr>
-    <td>
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
       <img src="https://github.com/Riwa-Hammoud/Riwa-Hammoud/blob/main/giphy.gif" alt="Girl Coding" width="300"/>
     </td>
-    <td>
-      <p>
-        Welcome to my GitHub profile! I'm a passionate <strong>Web Developer</strong> and <strong>AI/ML Enthusiast</strong>, with a keen interest in crafting innovative solutions and transforming creative ideas into reality.
-      </p>
-      <p>
-        ## 🚀 About Me
-        🔭 I’m currently working on <strong>Data Analytics and Power BI Projects</strong><br>
-        🌱 I’m learning <strong>Machine Learning</strong><br>
-        💬 Ask me about <strong>Python, Django, AI, and Web Development</strong><br>
-        📫 How to reach me: <a href="mailto:riwahammoud1@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/riwa-hammoud">LinkedIn</a>
+    <td style="border: none; padding-left: 20px;">
+      <p style="font-size: 16px;">
+        <em>Crafting code with a touch of creativity,</em> <br>
+        <strong>Passionate about turning ideas into reality</strong> through web development and AI.<br>
+        I'm on a journey to learn, create, and innovate.<br>
+        Whether it's a sleek website or a smart machine learning model, <br>
+        I'm all about building solutions that leave a lasting impact.<br>
       </p>
     </td>
   </tr>
@@ -27,8 +24,13 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/riwa-hammoud) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riwa-Hammoud&layout=compact&theme=radical)
 
-
+## 🚀 About Me
 I'm a passionate **Web Developer** and **AI/ML Enthusiast**, with a keen interest in crafting innovative solutions and transforming creative ideas into reality.
+
+- 🔭 I’m currently working on **Data Analytics and Power BI Projects**
+- 🌱 I’m learning **Machine Learning**
+- 💬 Ask me about **Python, Django, AI, and Web Development**
+- 📫 How to reach me: [Email](mailto:riwahammoud1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/riwa-hammoud)
 
 ## 🛠️ My Skills
 - **Languages:** Python, JavaScript, HTML, CSS
