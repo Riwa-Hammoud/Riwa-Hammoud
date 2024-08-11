@@ -1,6 +1,9 @@
 # Hi there, I'm Riwa Hammoud! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Riwa-Hammoud&color=blueviolet&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 
 ## 🚀 About Me
 I'm a passionate **Web Developer** and **AI/ML Enthusiast**, with a keen interest in crafting innovative solutions and transforming creative ideas into reality.
