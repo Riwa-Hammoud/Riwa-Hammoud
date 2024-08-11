@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Riwa-Hammoud)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/riwa-hammoud)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<Riwa-Hammoud>&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riwa-Hammoud&layout=compact&theme=radical)
 
 
 ## 🚀 About Me
