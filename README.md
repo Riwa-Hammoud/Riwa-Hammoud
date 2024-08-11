@@ -1,6 +1,6 @@
 # Hi there, I'm Riwa Hammoud! 👋
 
-![Girl Coding](https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif)
+![Girl Coding](https://github.com/Riwa-Hammoud/Riwa-Hammoud/blob/main/coding_girl.gif)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Riwa-Hammoud&color=blueviolet&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
