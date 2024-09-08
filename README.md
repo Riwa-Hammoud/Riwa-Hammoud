@@ -14,7 +14,7 @@
 ## 🚀 About Me
 I'm a passionate **Web Developer** and **AI/ML Enthusiast**, with a keen interest in crafting innovative solutions and transforming creative ideas into reality.
 
-- 🔭 I’m currently working on **Data Analytics and Power BI Projects**
+- 🔭 I’m currently working on **Web Development**
 - 🌱 I’m learning **Machine Learning**
 - 💬 Ask me about **Python, Django, AI, and Web Development**
 - 📫 How to reach me: [Email](mailto:riwahammoud1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/riwa-hammoud)
