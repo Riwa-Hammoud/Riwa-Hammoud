@@ -1,6 +1,6 @@
 ## Hello there, I am Riwa Hammoud!
 
-| ![Girl Coding](https://github.com/Riwa-Hammoud/Riwa-Hammoud/blob/main/giphy1.gif) | *Crafting code with a touch of creativity,* <br><br>Turning ideas into reality through **Web Development** and **AI**.<br><br>I'm on a journey to learn, create, and innovate.<br><br>From a sleek website to a smart machine learning model,<br><br>I'm all about building solutions that leave a lasting impact. |
+| ![Girl Coding](https://github.com/Riwa-Hammoud/Riwa-Hammoud/blob/main/giphy1.gif) | *Behind the scenes: invisible code, visible impact.* <br><br>Chasing the bugs, taking on the tasks everyone quietly avoids.<br><br>I'm a backend engineer building SaaS systems designed to scale.<br><br>I focus on the decisions that decide whether a system <br>scales or buckles.<br><br>The best backend is the one users never notice. |
 |---|---|
 
 
