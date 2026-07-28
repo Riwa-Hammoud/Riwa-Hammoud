@@ -26,7 +26,7 @@ I'm currently building **Nemouw** full-time, a SaaS platform connecting licensed
 ## 🚀 Projects
 ### 🍽️ FoodBridge: AI-Powered Food Waste Platform   
 
-[![View on GitHub](https://github.com/Riwa-Hammoud/Riwa-Hammoud/blob/main/assets/foodbridge-badge-neon.svg)](https://github.com/Riwa-Hammoud/FoodBridge)
+[![View on GitHub](https://raw.githubusercontent.com/Riwa-Hammoud/Riwa-Hammoud/main/assets/foodbridge-badge-neon.svg)](https://github.com/Riwa-Hammoud/FoodBridge)
 
 Built a platform matching restaurants with charities to reduce food waste — donor-recipient logic, data modelling, and AI-driven matching end-to-end.
 
