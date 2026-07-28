@@ -3,6 +3,7 @@
 | ![Girl Coding](https://github.com/Riwa-Hammoud/Riwa-Hammoud/blob/main/giphy1.gif) | *Behind the scenes: invisible code, visible impact.* <br><br>Chasing the bugs, taking on the tasks everyone quietly avoids.<br><br>I'm a backend engineer building SaaS systems designed to scale.<br><br>I focus on the decisions that decide whether a system <br>scales or buckles.<br><br>The best backend is the one users never notice. |
 |---|---|
 
+<br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Riwa-Hammoud&color=blueviolet&style=flat-square)](https://github.com/Riwa-Hammoud)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)]()
@@ -38,29 +39,60 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Riwa-Hammoud)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/riwa-hammoud)
 
-## 🚀 About Me
-I'm a passionate **Backend Engineer**, with a keen interest in crafting innovative solutions and transforming creative ideas into reality. I love architecting robust systems, from database design to REST APIs, with a strong eye for clean, maintainable code.
+<br>
 
-- 🔭 I'm currently working on **SaaS platforms**, **fintech systems**, and **web agency projects**
-- 🌱 I'm currently learning **Java Spark**, **PostgreSQL**, and **DevOps**
-- 💬 Ask me about **PHP, Yii2, SaaS architecture, and backend systems**
-- 📫 How to reach me: [Email](mailto:riwahammoud1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/riwa-hammoud)
+## 🧭 About Me
+ 
+Backend engineer focused on making complex systems reliable at scale, the kind of reliability that shows up in migrations that don't lose data, APIs that don't need constant hand-holding, and systems that stay fast as they grow.
+ 
+I'm currently building **Nemouw** full-time, a SaaS platform connecting licensed specialists (psychologists, speech therapists, occupational therapists, and more) with clients across Lebanon and the Gulf. I own the backend end-to-end, architecture, auth, payments, deployment, working alongside a partner who builds the frontend.
+ 
+**What I actually spend my time on:**
+- 🏗️ System design & multi-tenant architecture
+- 🗄️ Database design, indexing, and migrations
+- 🔐 Auth architecture & payment integrations
+- 📊 Observability & monitoring: Grafana, Loki, Promtail
+- 🚢 CI/CD & deployment: Docker, GitHub Actions, GHCR
+- 🧱 Clean architecture, SOLID principles, and code that survives contact with a second developer
+- 💬 Ask me about **database performance at scale, multi-tenant SaaS architecture, or backend system design**
+- 📫 Reach me: [Email](mailto:riwahammoud1@gmail.com) · [LinkedIn](https://www.linkedin.com/in/riwa-hammoud)
 
-## 🛠️ My Skills
-- **Languages:** PHP, Java, Python, TypeScript, JavaScript, HTML, CSS
-- **Frameworks & Libraries:** Yii2, Spark Framework, Vue 3, Node.js, Django
-- **Backend & DB:** MySQL, PostgreSQL, REST APIs, ActiveRecord, JWT Auth, Queue Jobs
-- **DevOps & Infra:** Docker, Docker Compose, Nginx, DigitalOcean, Certbot (SSL), GitHub Actions CI/CD
-- **Observability:** Grafana, Loki, Promtail
-- **Integrations:** Firebase (Google/Facebook OAuth)
-- **Interests:** SaaS Products, Fintech, Backend Architecture, AI/ML
+<br>
 
-## 🎯 My Goals
-- **Short-term:** Sharpen my backend skills, diving deeper into Java, PostgreSQL, and scalable system design.
-- **Long-term:** Build expertise in backend architecture and AI/ML, and lead impactful engineering projects.
+## 🚀 Projects
+### 🍽️ FoodBridge: AI-Powered Food Waste Platform   
 
-## 💡 Fun Fact
-I love exploring how AI can augment human creativity and solve real-world problems, and I believe the best products sit right at the intersection of solid engineering and thoughtful design!
+[![View on GitHub](https://raw.githubusercontent.com/Riwa-Hammoud/Riwa-Hammoud/main/assets/foodbridge-badge-neon.svg)](https://github.com/Riwa-Hammoud/FoodBridge)
 
-## 🔥 My Streak
+Built a platform matching restaurants with charities to reduce food waste — donor-recipient logic, data modelling, and AI-driven matching end-to-end.
+
+> 📈 Improved matching model accuracy from **30% → 88%** through data cleansing and iterative optimisation.
+ 
+<br>
+
+## 🛠️ Core Skills
+ 
+**Languages & Frameworks:** &nbsp; PHP · Yii2 · MySQL · PostgreSQL · Java · Django · MongoDB · Vue.js
+ 
+**Observability:** &nbsp; Grafana · Loki · Promtail
+ 
+**Infrastructure & DevOps:** &nbsp; Docker · Nginx · DigitalOcean · GitHub Actions · Git · Postman
+ 
+**AI Integration:** &nbsp; LLM integration, AI-powered feature development
+ 
+<br>
+
+## 📈 GitHub Stats
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=Riwa-Hammoud&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Riwa's GitHub Stats" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riwa-Hammoud&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+ 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riwa-Hammoud&theme=radical&hide_border=true" alt="Riwa's GitHub Streak" />
+
+<br>
+
+## 🤝 Let's Connect
+ 
+Open to conversations about backend architecture, SaaS systems, and roles where "boring and correct" is a compliment.
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riwa-hammoud)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riwahammoud1@gmail.com)
