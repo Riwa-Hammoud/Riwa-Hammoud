@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="204" height="40" viewBox="0 0 204 40">
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="76" viewBox="0 0 240 76">
   <defs>
-    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+    <filter id="glow" x="-150%" y="-150%" width="400%" height="400%">
       <feGaussianBlur stdDeviation="5" result="coloredBlur"/>
       <feMerge>
         <feMergeNode in="coloredBlur"/>
@@ -8,9 +8,9 @@
       </feMerge>
     </filter>
   </defs>
-  <rect x="6" y="6" width="192" height="28" rx="16" ry="16" fill="none" stroke="#8B5CF6" stroke-width="2" stroke-linejoin="round" filter="url(#glow)"/>
-  <rect x="6" y="6" width="192" height="28" rx="16" ry="16" fill="#0B0912" stroke="#8B5CF6" stroke-width="1.2" stroke-linejoin="round"/>
-  <g transform="translate(20,13)">
+  <rect x="24" y="24" width="192" height="28" rx="14" ry="14" fill="none" stroke="#8B5CF6" stroke-width="2" stroke-linejoin="round" filter="url(#glow)"/>
+  <rect x="24" y="24" width="192" height="28" rx="14" ry="14" fill="#0B0912" stroke="#8B5CF6" stroke-width="1.2" stroke-linejoin="round"/>
+  <g transform="translate(38,31)">
     <path fill="#ffffff" d="M7 0C3.13 0 0 3.13 0 7c0 3.1 2.01 5.73 4.79 6.66.35.06.48-.15.48-.34
       0-.17-.01-.72-.01-1.31-1.95.36-2.45-.47-2.61-.9-.09-.22-.47-.9-.8-1.08
       -.27-.15-.66-.51-.01-.52.61-.01 1.05.56 1.2.79.7 1.18 1.82.85 2.27.64.07-.5.27-.85.5-1.04
@@ -20,5 +20,5 @@
       0 3.01-1.84 3.67-3.59 3.87.28.24.53.71.53 1.44 0 1.04-.01 1.87-.01 2.13
       0 .19.13.41.48.34C11.99 12.73 14 10.09 14 7c0-3.87-3.13-7-7-7z"/>
   </g>
-  <text x="112" y="24" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="middle" letter-spacing="0.3">View on GitHub</text>
+  <text x="130" y="42" font-family="Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="middle" letter-spacing="0.3">View on GitHub</text>
 </svg>
