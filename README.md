@@ -83,7 +83,7 @@ Built a platform matching restaurants with charities to reduce food waste, donor
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Riwa-Hammoud&theme=midnight-purple&hide_border=true&border_radius=16)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-ten-pearl.vercel.app?user=Riwa-Hammoud&theme=midnight-purple&hide_border=true&border_radius=16)](https://github-readme-streak-stats-ten-pearl.vercel.app)
 
 <br>
 
